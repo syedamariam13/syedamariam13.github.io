@@ -1,0 +1,9 @@
+{
+  "name": "syedamariam13.github.io",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Syeda Mariam Abbas — narrative design and game pre-production portfolio",
+  "scripts": {
+    "serve": "npx serve ."
+  }
+}
